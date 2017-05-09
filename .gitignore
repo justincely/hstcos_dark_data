@@ -1,0 +1,8 @@
+# CalCOS products
+*.fits
+*.tra
+*.trl
+
+# Solar products
+*_DSD.txt
+solar_flux.txt
